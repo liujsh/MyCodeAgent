@@ -334,27 +334,6 @@ python -m pytest tests/ --cov=.
 
 ---
 
-## 贡献指南
-
-欢迎贡献代码！请遵循以下步骤：
-
-1. Fork 本仓库
-2. 创建特性分支 (`git checkout -b feature/AmazingFeature`)
-3. 提交改动 (`git commit -m 'Add some AmazingFeature'`)
-4. 推送到分支 (`git push origin feature/AmazingFeature`)
-5. 创建 Pull Request
-
-### 代码规范
-
-- 使用 4 空格缩进（PEP 8）
-- 类名使用 PascalCase
-- 函数和变量使用 snake_case
-- 常量使用 UPPER_SNAKE_CASE
-- 函数必须添加类型注解
-- 为新功能添加单元测试
-
----
-
 ## 常见问题
 
 **Q: 如何启用 AgentTeams 功能？**
