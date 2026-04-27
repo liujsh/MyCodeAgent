@@ -309,15 +309,6 @@ Skills 能力
 
 ---
 
-## 参考资源（References）
-
-
-> - 感谢 [Datawhale](https://github.com/datawhalechina) 提供的优秀开源教程 [HelloAgent](https://github.com/jjyaoao/HelloAgents.git)
-> - 感谢 [shareAI-lab](https://github.com/shareAI-lab) 的[Kode-Cli](https://github.com/shareAI-lab/Kode-cli.git)项目
-> - 感谢 [MiniMax-AI](https://github.com/MiniMax-AI)的[Mini-Agent](https://github.com/MiniMax-AI/Mini-Agent)项目
-> - 感谢[anomalyco](https://github.com/anomalyco)的**[opencode](https://github.com/anomalyco/opencode)**项目
-
----
 
 ## 测试
 
